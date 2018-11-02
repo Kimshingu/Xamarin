@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\Xamarin_Day1(18-11-02)\Hello_iOS\bin\iPhone\Debug\Hello_iOS.exe
+C:\Users\Administrator\source\repos\Xamarin_Day1(18-11-02)\Hello_iOS\bin\iPhone\Debug\Hello_iOS.pdb
+C:\Users\Administrator\source\repos\Xamarin_Day1(18-11-02)\Hello_iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Administrator\source\repos\Xamarin_Day1(18-11-02)\Hello_iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\Administrator\source\repos\Xamarin_Day1(18-11-02)\Hello_iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Administrator\source\repos\Xamarin_Day1(18-11-02)\Hello_iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\Administrator\source\repos\Xamarin_Day1(18-11-02)\Hello_iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\Administrator\source\repos\Xamarin_Day1(18-11-02)\Hello_iOS\obj\iPhone\Debug\optimized\
+C:\Users\Administrator\source\repos\Xamarin_Day1(18-11-02)\Hello_iOS\obj\iPhone\Debug\Hello_iOS.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Xamarin_Day1(18-11-02)\Hello_iOS\obj\iPhone\Debug\Hello_iOS.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Xamarin_Day1(18-11-02)\Hello_iOS\obj\iPhone\Debug\Hello_iOS.exe
+C:\Users\Administrator\source\repos\Xamarin_Day1(18-11-02)\Hello_iOS\obj\iPhone\Debug\Hello_iOS.pdb

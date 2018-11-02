@@ -1,0 +1,3 @@
+C:\Users\Administrator\source\repos\SayHelloLib\UseSayHelloLib\obj\Debug\MonoAndroid81\UseSayHelloLib.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\SayHelloLib\UseSayHelloLib\obj\Debug\MonoAndroid81\res.flag
+C:\Users\Administrator\source\repos\SayHelloLib\UseSayHelloLib\obj\Debug\MonoAndroid81\UseSayHelloLib.csproj.CoreCompileInputs.cache

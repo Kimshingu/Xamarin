@@ -1,0 +1,5 @@
+C:\Users\Administrator\source\repos\SayHelloLib\SayHelloLib\bin\Debug\SayHelloLib.dll
+C:\Users\Administrator\source\repos\SayHelloLib\SayHelloLib\bin\Debug\SayHelloLib.pdb
+C:\Users\Administrator\source\repos\SayHelloLib\SayHelloLib\obj\Debug\SayHelloLib.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\SayHelloLib\SayHelloLib\obj\Debug\SayHelloLib.dll
+C:\Users\Administrator\source\repos\SayHelloLib\SayHelloLib\obj\Debug\SayHelloLib.pdb
