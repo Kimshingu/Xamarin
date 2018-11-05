@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\ViewToView\ViewToView\ViewToView\obj\Debug\netstandard2.0\ViewToView.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ViewToView\ViewToView\ViewToView\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Administrator\source\repos\ViewToView\ViewToView\ViewToView\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Administrator\source\repos\ViewToView\ViewToView\ViewToView\obj\Debug\netstandard2.0\ViewToView.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ViewToView\ViewToView\ViewToView\obj\Debug\netstandard2.0\ViewToView.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ViewToView\ViewToView\ViewToView\obj\Debug\netstandard2.0\ViewToView.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ViewToView\ViewToView\ViewToView\obj\Debug\netstandard2.0\ViewToView.dll
+C:\Users\Administrator\source\repos\ViewToView\ViewToView\ViewToView\obj\Debug\netstandard2.0\ViewToView.pdb
+C:\Users\Administrator\source\repos\ViewToView\ViewToView\ViewToView\bin\Debug\netstandard2.0\ViewToView.deps.json
+C:\Users\Administrator\source\repos\ViewToView\ViewToView\ViewToView\bin\Debug\netstandard2.0\ViewToView.dll
+C:\Users\Administrator\source\repos\ViewToView\ViewToView\ViewToView\bin\Debug\netstandard2.0\ViewToView.pdb
+C:\Users\Administrator\source\repos\ViewToView\ViewToView\ViewToView\obj\Debug\netstandard2.0\XamlC.stamp

@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\ListView\ListView\ListView\bin\Debug\netstandard2.0\ListView.deps.json
+C:\Users\Administrator\source\repos\ListView\ListView\ListView\bin\Debug\netstandard2.0\ListView.dll
+C:\Users\Administrator\source\repos\ListView\ListView\ListView\bin\Debug\netstandard2.0\ListView.pdb
+C:\Users\Administrator\source\repos\ListView\ListView\ListView\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Administrator\source\repos\ListView\ListView\ListView\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Administrator\source\repos\ListView\ListView\ListView\obj\Debug\netstandard2.0\ListView.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ListView\ListView\ListView\obj\Debug\netstandard2.0\ListView.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ListView\ListView\ListView\obj\Debug\netstandard2.0\ListView.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ListView\ListView\ListView\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Administrator\source\repos\ListView\ListView\ListView\obj\Debug\netstandard2.0\ListView.dll
+C:\Users\Administrator\source\repos\ListView\ListView\ListView\obj\Debug\netstandard2.0\ListView.pdb
+C:\Users\Administrator\source\repos\ListView\ListView\ListView\obj\Debug\netstandard2.0\ListView.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ListView\ListView\ListView\obj\Debug\netstandard2.0\NextPage.xaml.g.cs
