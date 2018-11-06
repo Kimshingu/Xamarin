@@ -1,0 +1,13 @@
+E:\xamarin\Xamarin_Day3(18-11-06)\Emp\Emp\Emp\bin\Debug\netstandard2.0\Emp.deps.json
+E:\xamarin\Xamarin_Day3(18-11-06)\Emp\Emp\Emp\bin\Debug\netstandard2.0\Emp.dll
+E:\xamarin\Xamarin_Day3(18-11-06)\Emp\Emp\Emp\obj\Debug\netstandard2.0\Emp.csprojAssemblyReference.cache
+E:\xamarin\Xamarin_Day3(18-11-06)\Emp\Emp\Emp\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\xamarin\Xamarin_Day3(18-11-06)\Emp\Emp\Emp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\xamarin\Xamarin_Day3(18-11-06)\Emp\Emp\Emp\obj\Debug\netstandard2.0\Emp.csproj.CoreCompileInputs.cache
+E:\xamarin\Xamarin_Day3(18-11-06)\Emp\Emp\Emp\obj\Debug\netstandard2.0\Emp.AssemblyInfoInputs.cache
+E:\xamarin\Xamarin_Day3(18-11-06)\Emp\Emp\Emp\obj\Debug\netstandard2.0\Emp.AssemblyInfo.cs
+E:\xamarin\Xamarin_Day3(18-11-06)\Emp\Emp\Emp\bin\Debug\netstandard2.0\Emp.pdb
+E:\xamarin\Xamarin_Day3(18-11-06)\Emp\Emp\Emp\obj\Debug\netstandard2.0\Emp.dll
+E:\xamarin\Xamarin_Day3(18-11-06)\Emp\Emp\Emp\obj\Debug\netstandard2.0\Emp.pdb
+E:\xamarin\Xamarin_Day3(18-11-06)\Emp\Emp\Emp\obj\Debug\netstandard2.0\View\EmpViewPage.xaml.g.cs
+E:\xamarin\Xamarin_Day3(18-11-06)\Emp\Emp\Emp\obj\Debug\netstandard2.0\XamlC.stamp

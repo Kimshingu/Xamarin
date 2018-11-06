@@ -1,0 +1,14 @@
+E:\xamarin\Xamarin_Day3(18-11-06)\WebServiceTest\WebServiceTest\WebServiceTest\bin\Debug\netstandard2.0\WebServiceTest.deps.json
+E:\xamarin\Xamarin_Day3(18-11-06)\WebServiceTest\WebServiceTest\WebServiceTest\bin\Debug\netstandard2.0\WebServiceTest.dll
+E:\xamarin\Xamarin_Day3(18-11-06)\WebServiceTest\WebServiceTest\WebServiceTest\obj\Debug\netstandard2.0\WebServiceTest.csprojAssemblyReference.cache
+E:\xamarin\Xamarin_Day3(18-11-06)\WebServiceTest\WebServiceTest\WebServiceTest\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\xamarin\Xamarin_Day3(18-11-06)\WebServiceTest\WebServiceTest\WebServiceTest\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\xamarin\Xamarin_Day3(18-11-06)\WebServiceTest\WebServiceTest\WebServiceTest\obj\Debug\netstandard2.0\WebServiceTest.csproj.CoreCompileInputs.cache
+E:\xamarin\Xamarin_Day3(18-11-06)\WebServiceTest\WebServiceTest\WebServiceTest\obj\Debug\netstandard2.0\WebServiceTest.AssemblyInfoInputs.cache
+E:\xamarin\Xamarin_Day3(18-11-06)\WebServiceTest\WebServiceTest\WebServiceTest\obj\Debug\netstandard2.0\WebServiceTest.AssemblyInfo.cs
+E:\xamarin\Xamarin_Day3(18-11-06)\WebServiceTest\WebServiceTest\WebServiceTest\bin\Debug\netstandard2.0\WebServiceTest.dll.config
+E:\xamarin\Xamarin_Day3(18-11-06)\WebServiceTest\WebServiceTest\WebServiceTest\bin\Debug\netstandard2.0\WebServiceTest.pdb
+E:\xamarin\Xamarin_Day3(18-11-06)\WebServiceTest\WebServiceTest\WebServiceTest\obj\Debug\netstandard2.0\WebServiceTest.csproj.App.config
+E:\xamarin\Xamarin_Day3(18-11-06)\WebServiceTest\WebServiceTest\WebServiceTest\obj\Debug\netstandard2.0\XamlC.stamp
+E:\xamarin\Xamarin_Day3(18-11-06)\WebServiceTest\WebServiceTest\WebServiceTest\obj\Debug\netstandard2.0\WebServiceTest.dll
+E:\xamarin\Xamarin_Day3(18-11-06)\WebServiceTest\WebServiceTest\WebServiceTest\obj\Debug\netstandard2.0\WebServiceTest.pdb

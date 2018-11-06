@@ -1,0 +1,13 @@
+E:\xamarin\Xamarin_Day3(18-11-06)\SqliteTest\SqliteTest\SqliteTest\bin\Debug\netstandard2.0\SqliteTest.deps.json
+E:\xamarin\Xamarin_Day3(18-11-06)\SqliteTest\SqliteTest\SqliteTest\bin\Debug\netstandard2.0\SqliteTest.dll
+E:\xamarin\Xamarin_Day3(18-11-06)\SqliteTest\SqliteTest\SqliteTest\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\xamarin\Xamarin_Day3(18-11-06)\SqliteTest\SqliteTest\SqliteTest\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\xamarin\Xamarin_Day3(18-11-06)\SqliteTest\SqliteTest\SqliteTest\obj\Debug\netstandard2.0\SqliteTest.csproj.CoreCompileInputs.cache
+E:\xamarin\Xamarin_Day3(18-11-06)\SqliteTest\SqliteTest\SqliteTest\obj\Debug\netstandard2.0\SqliteTest.AssemblyInfoInputs.cache
+E:\xamarin\Xamarin_Day3(18-11-06)\SqliteTest\SqliteTest\SqliteTest\obj\Debug\netstandard2.0\SqliteTest.AssemblyInfo.cs
+E:\xamarin\Xamarin_Day3(18-11-06)\SqliteTest\SqliteTest\SqliteTest\obj\Debug\netstandard2.0\Views\TodoItemPage.xaml.g.cs
+E:\xamarin\Xamarin_Day3(18-11-06)\SqliteTest\SqliteTest\SqliteTest\obj\Debug\netstandard2.0\Views\TodoListPage.xaml.g.cs
+E:\xamarin\Xamarin_Day3(18-11-06)\SqliteTest\SqliteTest\SqliteTest\bin\Debug\netstandard2.0\SqliteTest.pdb
+E:\xamarin\Xamarin_Day3(18-11-06)\SqliteTest\SqliteTest\SqliteTest\obj\Debug\netstandard2.0\XamlC.stamp
+E:\xamarin\Xamarin_Day3(18-11-06)\SqliteTest\SqliteTest\SqliteTest\obj\Debug\netstandard2.0\SqliteTest.dll
+E:\xamarin\Xamarin_Day3(18-11-06)\SqliteTest\SqliteTest\SqliteTest\obj\Debug\netstandard2.0\SqliteTest.pdb

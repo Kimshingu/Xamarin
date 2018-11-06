@@ -1,0 +1,12 @@
+E:\xamarin\Xamarin_Day3(18-11-06)\Calc\Calc\Calc\bin\Debug\netstandard2.0\Calc.deps.json
+E:\xamarin\Xamarin_Day3(18-11-06)\Calc\Calc\Calc\bin\Debug\netstandard2.0\Calc.dll
+E:\xamarin\Xamarin_Day3(18-11-06)\Calc\Calc\Calc\bin\Debug\netstandard2.0\Calc.pdb
+E:\xamarin\Xamarin_Day3(18-11-06)\Calc\Calc\Calc\obj\Debug\netstandard2.0\Calc.csprojAssemblyReference.cache
+E:\xamarin\Xamarin_Day3(18-11-06)\Calc\Calc\Calc\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\xamarin\Xamarin_Day3(18-11-06)\Calc\Calc\Calc\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\xamarin\Xamarin_Day3(18-11-06)\Calc\Calc\Calc\obj\Debug\netstandard2.0\Calc.csproj.CoreCompileInputs.cache
+E:\xamarin\Xamarin_Day3(18-11-06)\Calc\Calc\Calc\obj\Debug\netstandard2.0\Calc.AssemblyInfoInputs.cache
+E:\xamarin\Xamarin_Day3(18-11-06)\Calc\Calc\Calc\obj\Debug\netstandard2.0\Calc.AssemblyInfo.cs
+E:\xamarin\Xamarin_Day3(18-11-06)\Calc\Calc\Calc\obj\Debug\netstandard2.0\XamlC.stamp
+E:\xamarin\Xamarin_Day3(18-11-06)\Calc\Calc\Calc\obj\Debug\netstandard2.0\Calc.dll
+E:\xamarin\Xamarin_Day3(18-11-06)\Calc\Calc\Calc\obj\Debug\netstandard2.0\Calc.pdb

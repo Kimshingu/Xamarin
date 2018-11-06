@@ -1,0 +1,16 @@
+E:\xamarin\Xamarin_Day3(18-11-06)\NavigationStack\NavigationStack\NavigationStack\bin\Debug\netstandard2.0\NavigationStack.deps.json
+E:\xamarin\Xamarin_Day3(18-11-06)\NavigationStack\NavigationStack\NavigationStack\bin\Debug\netstandard2.0\NavigationStack.dll
+E:\xamarin\Xamarin_Day3(18-11-06)\NavigationStack\NavigationStack\NavigationStack\bin\Debug\netstandard2.0\NavigationStack.pdb
+E:\xamarin\Xamarin_Day3(18-11-06)\NavigationStack\NavigationStack\NavigationStack\obj\Debug\netstandard2.0\NavigationStack.csprojAssemblyReference.cache
+E:\xamarin\Xamarin_Day3(18-11-06)\NavigationStack\NavigationStack\NavigationStack\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\xamarin\Xamarin_Day3(18-11-06)\NavigationStack\NavigationStack\NavigationStack\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\xamarin\Xamarin_Day3(18-11-06)\NavigationStack\NavigationStack\NavigationStack\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+E:\xamarin\Xamarin_Day3(18-11-06)\NavigationStack\NavigationStack\NavigationStack\obj\Debug\netstandard2.0\Page2.xaml.g.cs
+E:\xamarin\Xamarin_Day3(18-11-06)\NavigationStack\NavigationStack\NavigationStack\obj\Debug\netstandard2.0\Page3.xaml.g.cs
+E:\xamarin\Xamarin_Day3(18-11-06)\NavigationStack\NavigationStack\NavigationStack\obj\Debug\netstandard2.0\NavigationStack.csproj.CoreCompileInputs.cache
+E:\xamarin\Xamarin_Day3(18-11-06)\NavigationStack\NavigationStack\NavigationStack\obj\Debug\netstandard2.0\NavigationStack.AssemblyInfoInputs.cache
+E:\xamarin\Xamarin_Day3(18-11-06)\NavigationStack\NavigationStack\NavigationStack\obj\Debug\netstandard2.0\NavigationStack.AssemblyInfo.cs
+E:\xamarin\Xamarin_Day3(18-11-06)\NavigationStack\NavigationStack\NavigationStack\obj\Debug\netstandard2.0\XamlC.stamp
+E:\xamarin\Xamarin_Day3(18-11-06)\NavigationStack\NavigationStack\NavigationStack\obj\Debug\netstandard2.0\NavigationStack.dll
+E:\xamarin\Xamarin_Day3(18-11-06)\NavigationStack\NavigationStack\NavigationStack\obj\Debug\netstandard2.0\NavigationStack.pdb
+E:\xamarin\Xamarin_Day3(18-11-06)\NavigationStack\NavigationStack\NavigationStack\obj\Debug\netstandard2.0\Page2a.xaml.g.cs
